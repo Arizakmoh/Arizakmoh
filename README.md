@@ -1,6 +1,6 @@
 ### Hello, I am Abdirizak 👋
 
-- 📍  Blaine Minnesota, USA
+- 📍  Minneapolis Minnesota, USA
 - 🔭 I'm Full Stack Developer | Problem Solver | Lifelong Learner | Freelance
 - 🌱 Actively learning new technologies and staying up-to-date with industry trends
 - 🐳 I’m currently Freelance 
